@@ -5,7 +5,7 @@ The **Polynomial Visualization Tool** is a graphical user interface (GUI) applic
 
 ### Features:
 - **Polynomial Selection**: Choose from different polynomial types (Linear, Quadratic, Cubic, Biquadratic).
-- **Derivative Calculation**: The application computes and displays the derivative of the selected polynomial.
+- **Derivative Calculation**: The application computes the derivative of the selected polynomial.
 - **Plotting**: Plot the selected polynomial and its derivative on a graph.
 - **Integration**: Compute and display the area under the curve (integral) of the polynomial between a specified range.
 - **Second Polynomial Option**: Option to add a second polynomial and compare the two.
