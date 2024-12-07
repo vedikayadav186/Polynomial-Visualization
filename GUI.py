@@ -79,9 +79,6 @@ def plot_polynomial():
         results_label.config(text=f"Area Under Curve: {integral:.2f}")
         canvas_plot.draw()
 
-        # Display the derivative equation
-        deriv_label.config(text=f"Derivative 1: {deriv_equation}")
-
     except Exception as e:
         error_label.config(text=f"Error: {str(e)}")
 
